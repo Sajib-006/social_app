@@ -1,7 +1,7 @@
 # social_app
 
 visit us at: <b>https://protirodh.vercel.app/</b>
-For video call visit at: <b> https://protirodh.vercel.app/video/<b>
+<br>For video call visit at: <b> https://protirodh.vercel.app/video/<b>
 
 To run:
 
